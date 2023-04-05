@@ -48,7 +48,7 @@ function submitInfo(event) {
 //render local storage data
 
 function renderTasks () {
-    var lastGrade = JSON.parse(localStorage.getItem("studentGrade"));
+    var lastTask = JSON.parse(localStorage.getItem("inputTask"));
 }
 
 
